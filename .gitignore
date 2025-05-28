@@ -1,14 +1,14 @@
 .en# Ignore environment config
-   .env
+.env
 
    # Build outputs
-   /target
-   /build
+/target/
+/build/
 
    # IDE settings
-   /.idea
-   /*.iml
+/.idea
+/*.iml
 
    # OS files
-   .DS_Store
-   Thumbs.db
+.DS_Store
+Thumbs.db
