@@ -2,11 +2,11 @@
    .env
 
    # Build outputs
-   /target/
-   /build/
+   /target
+   /build
 
    # IDE settings
-   /.idea/
+   /.idea
    /*.iml
 
    # OS files
